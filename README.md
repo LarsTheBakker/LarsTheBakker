@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is @LarsTheBakker and I'm a Full Stack Developer from Amsterdam </h2>
+<h2 align="left">My name is @LarsTheBakker and I'm a Full Stack Developer from Amsterdam 🇳🇱🏴‍☠️</h2>
 
 ###
 
